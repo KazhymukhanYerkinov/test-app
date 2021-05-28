@@ -1,0 +1,22 @@
+@import './fonts';
+@import './components/all';
+@import './libs/normalize';
+
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 30px auto 0;
+    
+    &--1430 {
+      max-width: 1430px; 
+        
+    }
+    &--870 {
+      padding: 0;
+      max-width: 870px;
+      margin: 0;
+    }
+}
+
+
+
