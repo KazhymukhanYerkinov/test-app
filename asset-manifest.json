@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/test-app/static/css/main.97e6b707.chunk.css",
+    "main.js": "/test-app/static/js/main.592aaad5.chunk.js",
+    "main.js.map": "/test-app/static/js/main.592aaad5.chunk.js.map",
+    "runtime-main.js": "/test-app/static/js/runtime-main.e6d1827c.js",
+    "runtime-main.js.map": "/test-app/static/js/runtime-main.e6d1827c.js.map",
+    "static/css/2.f694539e.chunk.css": "/test-app/static/css/2.f694539e.chunk.css",
+    "static/js/2.7b7b7cf3.chunk.js": "/test-app/static/js/2.7b7b7cf3.chunk.js",
+    "static/js/2.7b7b7cf3.chunk.js.map": "/test-app/static/js/2.7b7b7cf3.chunk.js.map",
+    "index.html": "/test-app/index.html",
+    "static/css/2.f694539e.chunk.css.map": "/test-app/static/css/2.f694539e.chunk.css.map",
+    "static/css/main.97e6b707.chunk.css.map": "/test-app/static/css/main.97e6b707.chunk.css.map",
+    "static/js/2.7b7b7cf3.chunk.js.LICENSE.txt": "/test-app/static/js/2.7b7b7cf3.chunk.js.LICENSE.txt",
+    "static/media/001.990f8b11.jpg": "/test-app/static/media/001.990f8b11.jpg",
+    "static/media/002.e6b90252.jpg": "/test-app/static/media/002.e6b90252.jpg",
+    "static/media/003.9b2604c5.jpg": "/test-app/static/media/003.9b2604c5.jpg",
+    "static/media/100.c903a7ac.jpg": "/test-app/static/media/100.c903a7ac.jpg",
+    "static/media/101.8a32155b.jpg": "/test-app/static/media/101.8a32155b.jpg",
+    "static/media/102.c7558d67.jpg": "/test-app/static/media/102.c7558d67.jpg",
+    "static/media/103.19adfe87.jpg": "/test-app/static/media/103.19adfe87.jpg",
+    "static/media/104.cb057d82.jpg": "/test-app/static/media/104.cb057d82.jpg",
+    "static/media/105.38c7beba.jpg": "/test-app/static/media/105.38c7beba.jpg",
+    "static/media/106.f77015eb.jpg": "/test-app/static/media/106.f77015eb.jpg",
+    "static/media/icon-arrow-dropdown.28060dc8.svg": "/test-app/static/media/icon-arrow-dropdown.28060dc8.svg",
+    "static/media/icon-arrow-right.ca32f3bd.svg": "/test-app/static/media/icon-arrow-right.ca32f3bd.svg",
+    "static/media/icon-cart.e48d9bbc.svg": "/test-app/static/media/icon-cart.e48d9bbc.svg",
+    "static/media/icon-cross.e12c020c.svg": "/test-app/static/media/icon-cross.e12c020c.svg",
+    "static/media/icon-favorites.8b803680.svg": "/test-app/static/media/icon-favorites.8b803680.svg",
+    "static/media/icon-orders.fc4c55a4.svg": "/test-app/static/media/icon-orders.fc4c55a4.svg",
+    "static/media/icon-profile.e5300a8c.svg": "/test-app/static/media/icon-profile.e5300a8c.svg",
+    "static/media/icon-search.94e9a56e.svg": "/test-app/static/media/icon-search.94e9a56e.svg",
+    "static/media/logo.aac54a62.svg": "/test-app/static/media/logo.aac54a62.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6d1827c.js",
+    "static/css/2.f694539e.chunk.css",
+    "static/js/2.7b7b7cf3.chunk.js",
+    "static/css/main.97e6b707.chunk.css",
+    "static/js/main.592aaad5.chunk.js"
+  ]
+}
