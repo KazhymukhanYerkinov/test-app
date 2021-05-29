@@ -1,0 +1,9 @@
+@import '../../scss/variables';
+
+.products {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+    margin: 0 -10px;
+}

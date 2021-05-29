@@ -1,4 +1,19 @@
-@import '../../components/HeaderTop/header-top';
-@import '../../components/HeaderMid/header-mid';
+@import '../../components/Header/HeaderTop/header-top';
+@import '../../components/Header/HeaderMid/header-mid';
+@import '../../components/Header/HeaderBottom/header-bottom';
+
+@import '../../components/Categories/categories';
+@import '../../components/Categories/CategoriesTop/categories-top';
+@import '../../components/Categories/CategoriesMid/categories-mid';
+
+@import '../../components/Select/select';
+@import './option';
+
+@import '../../components/Products/products';
+@import '../../components/Products/Product/product';
+@import '../../components/Products/Product/ProductFooter/product-footer';
+
 
 @import './icon';
+@import './search';
+@import './button';

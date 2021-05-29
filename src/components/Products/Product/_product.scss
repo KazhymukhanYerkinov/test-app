@@ -1,0 +1,57 @@
+@import '../../../scss/variables';
+
+.product {
+    margin: 20px 0;
+    width: 100%;
+    max-width: 238px;
+    padding: 10px;
+    margin-right: 5px;
+
+    
+    cursor: pointer;
+    background-color: $white;
+
+    
+
+    &:hover {
+        filter: drop-shadow(0 0 5px #eaeaea);
+    }
+    &:hover .product-footer {
+        display: block;
+    }
+
+    &__hover {
+        width: 25%;
+        border-right: 1px solid black;
+        background-color: black;
+    }
+
+    &__image {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+    &__date {
+        margin: 10px 0;
+
+        font-size: 12px;
+        line-height: 15px;
+        color: $second_text;
+    }
+    &__name {
+        font-size: 14px;
+        line-height: 18px;
+        font-weight: 600;
+        
+        color: $black;
+    }
+    &__price {
+        margin: 20px 0;
+
+        font-size: 14px;
+        line-height: 21px;
+        font-weight: 600;
+
+        color: $black;
+    }
+}

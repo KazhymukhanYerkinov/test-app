@@ -1,0 +1,43 @@
+@import '../variables';
+
+.search {
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    width: 100%;
+    z-index: 100;
+
+    &.open {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    &__requests {
+        background-color: $white;
+    }
+    &__request {
+       padding-bottom: 20px; 
+    }
+    &__request-title {
+        padding: 10px 30px;
+        font-size: 12px;
+        font-weight: 400;
+        color: $second_text;
+    }
+    &__request-text {
+        padding: 10px 30px;
+        
+        font-size: 14px;
+        font-weight: 400;
+        color: $black;
+
+        cursor: pointer;
+        background-color: $white;
+        transition: background-color .2s linear;
+
+        &:hover {
+            background-color: $light_red;
+        }
+        
+    }
+}

@@ -1,0 +1,62 @@
+@import '../variables';
+
+.button {
+    font-size: 12px;
+    line-height: 15px;
+    font-weight: 400;
+    color: $black;
+
+
+    border: none;
+    cursor: pointer;
+    background-color: $search_bg;
+    transition: color .2s linear;
+
+    &:hover {
+        color: $yellow;
+    }
+
+    &.active {
+        border: 1px solid $yellow;
+        background-color: $light_red;
+    }
+
+    &__categories {
+        display: flex;
+        align-items: center;
+
+        margin-right: 12px;
+        height: 40px;
+    }
+
+    &__text {
+        padding: 12px 25px;
+    }
+
+    &__clear {
+        display: none;
+        align-items: center;
+        justify-content: center;
+
+        width: 40px;
+        height: 40px;
+
+        
+
+        border-left: 1px solid $yellow;
+        border-top: 1px solid $yellow;
+        border-bottom: 1px solid $yellow;
+
+        &.active {
+            display: flex;
+        }
+
+        &-image {
+            width: 12px;
+            height: 12px;
+        }
+    }
+
+    
+
+}

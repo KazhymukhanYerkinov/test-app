@@ -1,5 +1,7 @@
 import React from 'react';
-import { HeaderTop, HeaderMid } from '../components';
+import { Categories, Header, Products } from '../components';
+
+
 
 
 
@@ -7,10 +9,9 @@ const Main = () => {
   return (
     <div className = 'app-wrapper'>
       <div className = 'container container--1430'>
-        <div className = 'container container--870'>
-          <HeaderTop />
-          <HeaderMid />
-        </div>
+        <Header />
+        <Categories />
+        <Products />
       </div>
     </div>
   )

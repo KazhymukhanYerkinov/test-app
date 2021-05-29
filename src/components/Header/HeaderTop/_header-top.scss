@@ -1,8 +1,10 @@
-@import '../../scss/variables';
+@import '../../../scss/variables';
 
 .header-top {
     display: flex;
     align-items: center;
+    padding-right: 15px;
+
 
     &__logo {
         display: flex;
@@ -42,10 +44,10 @@
         font-weight: 400;
 
         color: $second_text;
-        transition: color .3s linear;
+        transition: color .2s linear;
 
         &:hover {
-            color: $first_text;
+            color: $yellow;
         } 
     }
     &__contact {

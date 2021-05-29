@@ -2,18 +2,25 @@
 @import './components/all';
 @import './libs/normalize';
 
+@import "swiper/swiper.min.css";
+@import "swiper/components/navigation/navigation.min.css";
+
 .container {
     width: 100%;
     padding: 0 15px;
     margin: 30px auto 0;
     
     &--1430 {
-      max-width: 1430px; 
-        
+      max-width: 1470px;  
     }
-    &--870 {
+    &--885 {
       padding: 0;
-      max-width: 870px;
+      max-width: 885px;
+      margin: 0;
+    }
+    &--1200 {
+      padding: 0;
+      max-width: 1200px;
       margin: 0;
     }
 }

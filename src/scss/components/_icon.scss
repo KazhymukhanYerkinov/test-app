@@ -1,7 +1,57 @@
+@import '../variables';
+
 .icon {
     display: block;
 
     width: 18px;
     height: 18px;
     cursor: pointer;
+
+    svg {
+        width: 18px;
+        height: 18px;
+    }
+
+    &__block {
+        display: block;
+        padding: 9px;
+        margin-left: 42px;
+
+        position: relative;
+
+        cursor: pointer;
+        border-radius: 50%;
+        background-color: transparent;
+
+        transition: background-color .2s linear;
+
+        &:hover {
+            background-color: $search_bg;
+        }
+        &--20 {
+            margin-left: 25px;
+        } 
+    }
+
+    &__counter {
+        width: 22px;
+        height: 22px;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 700;
+        color: $white;
+
+        position: absolute;
+        top: -3px;
+        right: -3px;
+        z-index: 10;
+
+        border-radius: 50%;
+        background-color: $red;
+    }
 }

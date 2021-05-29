@@ -1,0 +1,25 @@
+@import '../../../scss/variables';
+
+.header-bottom {
+    &__items {
+        display: flex;
+        align-items: center;
+
+    }
+    &__item {
+        margin-right: 35px;
+
+        font-size: 14px;
+        line-height: 17px;
+        font-weight: 400;
+
+        color: $second_text;
+        cursor: pointer;
+
+        transition: color .2s linear;
+
+        &:hover {
+            color: $yellow;
+        }
+    }
+}

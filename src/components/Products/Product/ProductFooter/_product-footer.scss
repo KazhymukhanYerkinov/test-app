@@ -1,0 +1,61 @@
+@import '../../../../scss/variables';
+
+.product-footer {
+    display: none;
+    padding: 0 10px;
+
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    z-index: 200;
+    width: 100%;
+    background-color: $white;
+
+
+    &__items {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    &__item {
+        margin-right: 1px;
+        margin-bottom: 1px;
+        width: 30px;
+        height: 30px;
+    }
+    &__button {
+        margin: 10px 0;
+
+        width: 100%;
+        height: 35px;
+        
+        color: $white;
+        border: none;
+        cursor: pointer;
+        background-color: $green;
+
+        transition: filter .2s linear;
+
+        &:hover {
+            filter: drop-shadow(0 0 5px rgba(55,135,34,0.5));
+        }
+    }
+
+    &__link {
+        display: block;
+        margin-bottom: 10px;
+
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 400;
+        text-align: center;
+
+        transition: color .2s linear;
+
+        &:hover {
+            color: $yellow;
+        }
+    }
+}
+

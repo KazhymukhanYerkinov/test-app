@@ -1,3 +1,9 @@
-export { default as HeaderTop } from './HeaderTop/header-top';
-export { default as HeaderMid } from './HeaderMid/header-mid';
+export { default as Header } from './Header/header';
+export { default as Categories } from './Categories/categories';
+export { default as Products } from './Products/products';
+
+
+
+
+
 
