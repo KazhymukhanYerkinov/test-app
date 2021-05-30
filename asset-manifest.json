@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.97e6b707.chunk.css",
-    "main.js": "/test-app/static/js/main.592aaad5.chunk.js",
-    "main.js.map": "/test-app/static/js/main.592aaad5.chunk.js.map",
+    "main.css": "/test-app/static/css/main.99a4892b.chunk.css",
+    "main.js": "/test-app/static/js/main.32a97a48.chunk.js",
+    "main.js.map": "/test-app/static/js/main.32a97a48.chunk.js.map",
     "runtime-main.js": "/test-app/static/js/runtime-main.e6d1827c.js",
     "runtime-main.js.map": "/test-app/static/js/runtime-main.e6d1827c.js.map",
     "static/css/2.f694539e.chunk.css": "/test-app/static/css/2.f694539e.chunk.css",
-    "static/js/2.7b7b7cf3.chunk.js": "/test-app/static/js/2.7b7b7cf3.chunk.js",
-    "static/js/2.7b7b7cf3.chunk.js.map": "/test-app/static/js/2.7b7b7cf3.chunk.js.map",
+    "static/js/2.b0662088.chunk.js": "/test-app/static/js/2.b0662088.chunk.js",
+    "static/js/2.b0662088.chunk.js.map": "/test-app/static/js/2.b0662088.chunk.js.map",
     "index.html": "/test-app/index.html",
     "static/css/2.f694539e.chunk.css.map": "/test-app/static/css/2.f694539e.chunk.css.map",
-    "static/css/main.97e6b707.chunk.css.map": "/test-app/static/css/main.97e6b707.chunk.css.map",
-    "static/js/2.7b7b7cf3.chunk.js.LICENSE.txt": "/test-app/static/js/2.7b7b7cf3.chunk.js.LICENSE.txt",
+    "static/css/main.99a4892b.chunk.css.map": "/test-app/static/css/main.99a4892b.chunk.css.map",
+    "static/js/2.b0662088.chunk.js.LICENSE.txt": "/test-app/static/js/2.b0662088.chunk.js.LICENSE.txt",
     "static/media/001.990f8b11.jpg": "/test-app/static/media/001.990f8b11.jpg",
     "static/media/002.e6b90252.jpg": "/test-app/static/media/002.e6b90252.jpg",
     "static/media/003.9b2604c5.jpg": "/test-app/static/media/003.9b2604c5.jpg",
@@ -30,13 +30,18 @@
     "static/media/icon-orders.fc4c55a4.svg": "/test-app/static/media/icon-orders.fc4c55a4.svg",
     "static/media/icon-profile.e5300a8c.svg": "/test-app/static/media/icon-profile.e5300a8c.svg",
     "static/media/icon-search.94e9a56e.svg": "/test-app/static/media/icon-search.94e9a56e.svg",
+    "static/media/icon-social-fb.51dc4893.svg": "/test-app/static/media/icon-social-fb.51dc4893.svg",
+    "static/media/icon-social-ok.09310566.svg": "/test-app/static/media/icon-social-ok.09310566.svg",
+    "static/media/icon-social-tg.e3853c84.svg": "/test-app/static/media/icon-social-tg.e3853c84.svg",
+    "static/media/icon-social-tw.5e7c2cf2.svg": "/test-app/static/media/icon-social-tw.5e7c2cf2.svg",
+    "static/media/icon-social-vk.95dc8f52.svg": "/test-app/static/media/icon-social-vk.95dc8f52.svg",
     "static/media/logo.aac54a62.svg": "/test-app/static/media/logo.aac54a62.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.e6d1827c.js",
     "static/css/2.f694539e.chunk.css",
-    "static/js/2.7b7b7cf3.chunk.js",
-    "static/css/main.97e6b707.chunk.css",
-    "static/js/main.592aaad5.chunk.js"
+    "static/js/2.b0662088.chunk.js",
+    "static/css/main.99a4892b.chunk.css",
+    "static/js/main.32a97a48.chunk.js"
   ]
 }
