@@ -1,0 +1,47 @@
+@import '../../scss/variables';
+
+.footer {
+    background-color: $search_bg;
+
+    &__inner {
+        padding: 30px 0 45px;
+
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-between;
+    }
+
+    &__link {
+        margin-top: 15px;
+        display: flex;
+        align-items: center;
+
+        font-size: 12px;
+        line-height: 15px;
+        font-weight: 400;
+        color: $black;
+
+        transition: color .2s linear;
+
+        &.bold {
+            font-size: 14px;
+            font-weight: 700;
+        }
+        &:hover {
+            color: $yellow;
+        }
+
+        img {
+            display: block;
+
+            width: 18px;
+            height: 18px;
+            margin-right: 5px;
+        }
+        svg {
+            color: $second_text;
+        }
+    }
+
+    
+}

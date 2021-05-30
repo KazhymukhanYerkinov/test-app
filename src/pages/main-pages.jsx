@@ -1,5 +1,5 @@
 import React from 'react';
-import { Categories, Header, Products } from '../components';
+import { Categories, Footer, Header, Products } from '../components';
 
 
 
@@ -13,6 +13,7 @@ const Main = () => {
         <Categories />
         <Products />
       </div>
+      <Footer />
     </div>
   )
 }
